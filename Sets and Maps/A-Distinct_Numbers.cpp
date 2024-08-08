@@ -1,3 +1,4 @@
+/*You are given a list of n integers, and your task is to calculate the number of distinct values in the list.*/
 #include <iostream>
 #include<set>
 using namespace std;
